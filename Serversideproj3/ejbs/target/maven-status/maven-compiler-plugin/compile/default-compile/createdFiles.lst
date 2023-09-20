@@ -1,0 +1,8 @@
+beansDTO\ResultadosDTO.class
+beans\IManageStudents.class
+beans\ManageStudents.class
+beans\IManageApp.class
+beansDTO\MoedasDTO.class
+beans\ManageApp.class
+beansDTO\ClientesDTO.class
+beansDTO\GestoresDTO.class
